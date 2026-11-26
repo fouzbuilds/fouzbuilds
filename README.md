@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Fouz Khan — AI Engineer · Python Developer" width="100%" />
+  <img src="assets/banner.png" alt="Fouz Khan — AI Engineer · Python Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -26,6 +26,14 @@ I use daily: **Python, Git, GitHub, VS Code, Linux.**
 ### Tech Stack
 
 ![Tech stack](https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark)
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=fouzbuilds&theme=midnight)
+
+</div>
 
 ### Connect
 
