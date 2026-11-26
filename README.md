@@ -19,9 +19,9 @@ I use daily: **Python, Git, GitHub, VS Code, Linux.**
 
 ### Currently Learning
 
-- 🐍 **Python** — programming fundamentals through my BS AI coursework
-- 🤖 **Machine learning basics** — how models learn, in theory and in code
-- 🌱 **How LLMs work** — the ideas behind modern AI, one concept at a time
+- **Python** — programming fundamentals through my BS AI coursework
+- **Machine learning basics** — how models learn, in theory and in code
+- **How LLMs work** — the ideas behind modern AI, one concept at a time
 
 ### Tech Stack
 
